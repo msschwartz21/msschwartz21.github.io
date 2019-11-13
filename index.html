@@ -1,22 +1,18 @@
 ---
 layout: default
-title: About Me
 ---
 
-<div class="intro">
-	<h1>About Me</h1>
-	<p>{% include intro.md %}</p>
-	<br>
-	<p>To learn more about my research interests, please see my <a href="{{ site.baseurl }}{% link projects.html %}">projects</a>.</p>
-	<br>
-	<p>For more information, see my <a href="{{ site.baseurl }}{% link pubs.html %}">publication list</a> and my list of <a href="{{ site.baseurl }}{% link about.html %}">honors and awards</a>.</p>
 
-	<h1>Contact</h1>
-	<p>Email me via mschwartz [at] smith [dot] edu!</p>
-	<div class="row">
-		<a class="btn" href="mailto:mschwartz@smith.edu?Subject=ContactFromMorganSchwartzWebsite">Email</a>
-		<a class="btn" href="https://github.com/msschwartz21">Github</a>
-		<a class="btn" href="https://www.linkedin.com/in/morgan-schwartz-5b2929a9/">LinkedIn</a>
-	</div>
-	
-</div>
+{% include career-profile.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include experiences.html %}
+
+{% include projects.html %}
+
+{% include publications.html %}
+
+{% include skills.html %}
