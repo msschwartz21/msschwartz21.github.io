@@ -7,11 +7,16 @@ light = true
 # Primary
 primary = "#FF6C0C"
 
-# Menu
-menu_primary = "#FF6C0C"
-menu_text = "#fff"
-menu_text_active = "#b84b04"
-menu_title = "#fff"
+# Menu orange version
+# menu_primary = "#FF6C0C"
+# menu_text = "#fff"
+# menu_text_active = "#b84b04"
+# menu_title = "#fff"
+
+menu_primary = "#fff"
+menu_text = "#34495e"
+menu_text_active = "#FF6C0C"
+menu_title = "#2b2b2b"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
