@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G Miller | Morgan Schwartz</title>
+    <link>/author/g-miller/</link>
+      <atom:link href="/author/g-miller/index.xml" rel="self" type="application/rss+xml" />
+    <description>G Miller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>G Miller</title>
+      <link>/author/g-miller/</link>
+    </image>
+    
+    <item>
+      <title>Accurate cell tracking and lineage construction in live-cell imaging experiments with deep learning</title>
+      <link>/publication/moen-2019-tracking/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/moen-2019-tracking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
