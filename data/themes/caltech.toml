@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Caltech"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#FF6C0C"
+
+# Menu
+menu_primary = "#FF6C0C"
+menu_text = "#fff"
+menu_text_active = "#b84b04"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
