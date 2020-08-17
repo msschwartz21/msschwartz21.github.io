@@ -30,9 +30,9 @@
     
     <item>
       <title>Deep learning enabled image analysis unites high throughput functional genomics with live cell imaging</title>
-      <link>/talk/janelia-2019/</link>
+      <link>/talk/janelia-2019-talk/</link>
       <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/janelia-2019/</guid>
+      <guid>/talk/janelia-2019-talk/</guid>
       <description></description>
     </item>
     
@@ -53,11 +53,74 @@
     </item>
     
     <item>
+      <title>ΔSCOPE: A new method to quantify biological structures and identify differences in zebrafish forebrain development</title>
+      <link>/poster/deltascope-2018-poster/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/poster/deltascope-2018-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new computational method to quantify 3D image data to detail changes in morphological structure and spatial relationships during nervous system development</title>
+      <link>/poster/deltascope-2017-poster/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/poster/deltascope-2017-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Untangling brain development at Janelia Research Campus.</title>
+      <link>/talk/janelia-2016-talk/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/janelia-2016-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the role of robo4 in glial bridge condensation and its influence on the formation of the post-optic commissure</title>
+      <link>/poster/robo4-2016-poster/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/poster/robo4-2016-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ΔSCOPE: A new method to quantify 3D biological structures and identify differences in zebrafish forebrain development</title>
       <link>/publication/schwartz-2016-dementia/</link>
       <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/publication/schwartz-2016-dementia/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Honors and Awards</title>
+      <link>/honors-awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/honors-awards/</guid>
+      <description>&lt;h4 id=&#34;honorable-mention&#34;&gt;Honorable Mention&lt;/h4&gt;
+&lt;p&gt;National Science Foundation Graduate Research Fellowship | 2020&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2020, &lt;strong&gt;Honorable Mention&lt;/strong&gt;, National Science Foundation Graduate Research Fellowship&lt;/li&gt;
+&lt;li&gt;2019, &lt;strong&gt;Undergraduate Teaching Award&lt;/strong&gt;, Caltech Student Committee for Biology Advancement&lt;/li&gt;
+&lt;li&gt;2018} &amp;amp; \textbf{Highest Honors}, Smith College Biology Department \&lt;br&gt;
+\textsc{2018} &amp;amp; \textbf{First Place Undergraduate Poster}, New England Society for Developmental Biology \&lt;br&gt;
+\textsc{2018} &amp;amp; \textbf{Finalist},  Rhodes Fellowship\&lt;br&gt;
+\textsc{2018} &amp;amp; \textbf{Finalist},  Marshall Scholarship\&lt;br&gt;
+\textsc{2017} &amp;amp; \textbf{Goldwater Scholar}, Barry Goldwater Scholarship and Excellence in Education Foundation \&lt;br&gt;
+\textsc{2017} &amp;amp; \textbf{Associate Membership}, Sigma Xi, The Scientific Research Honor Society\&lt;br&gt;
+\textsc{2017} &amp;amp; \textbf{First Place Undergraduate Poster}, National Society for Developmental Biology \&lt;br&gt;
+\textsc{2016} &amp;amp; \textbf{First Place Undergraduate Poster}, New England Society for Developmental Biology \&lt;br&gt;
+\textsc{2014-2018} &amp;amp; \textbf{Dean&amp;rsquo;s List}, Smith College \&lt;br&gt;
+\textsc{2014-2018} &amp;amp; \textbf{STRIDE Scholar}, Smith College \&lt;br&gt;
+\textsc{2014} &amp;amp; \textbf{Faculty Prize}, Phoenix Country Day School \&lt;br&gt;
+\textsc{2014} &amp;amp; \textbf{National Merit Scholar}, National Merit Scholarship Program \&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;card experience course&#34;&gt;
+&lt;div class=&#34;card-body&#34;&gt;&lt;h4 class=&#34;card-title exp-title text-muted my-0&#34;&gt;Honorable Mention&lt;/h4&gt;&lt;div class=&#34;card-subtitle my-0 article-metadata&#34;&gt;National Science Foundation Graduate Research Fellowship&lt;span class=&#34;middot-divider&#34;&gt;&lt;/span&gt;2020&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;card-body&#34;&gt;&lt;h4 class=&#34;card-title exp-title text-muted my-0&#34;&gt;Honorable Mention&lt;/h4&gt;&lt;div class=&#34;card-subtitle my-0 article-metadata&#34;&gt;National Science Foundation Graduate Research Fellowship&lt;span class=&#34;middot-divider&#34;&gt;&lt;/span&gt;2020&lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
     
   </channel>

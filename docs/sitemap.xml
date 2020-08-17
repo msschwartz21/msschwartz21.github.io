@@ -44,7 +44,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-08-13T10:39:54-07:00</lastmod>
+    <lastmod>2020-08-16T21:41:53-07:00</lastmod>
   </url>
   
   <url>
@@ -88,8 +88,18 @@
   </url>
   
   <url>
-    <loc>/talk/janelia-2019/</loc>
-    <lastmod>2020-08-13T10:39:54-07:00</lastmod>
+    <loc>/talk/janelia-2019-talk/</loc>
+    <lastmod>2020-08-16T21:41:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/presentation/</loc>
+    <lastmod>2020-08-16T21:41:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-16T21:41:53-07:00</lastmod>
   </url>
   
   <url>
@@ -188,6 +198,36 @@
   </url>
   
   <url>
+    <loc>/poster/</loc>
+    <lastmod>2020-08-16T21:41:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/posters/</loc>
+    <lastmod>2020-08-16T21:41:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/poster/deltascope-2018-poster/</loc>
+    <lastmod>2020-08-16T21:41:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/poster/deltascope-2017-poster/</loc>
+    <lastmod>2020-08-16T21:41:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/janelia-2016-talk/</loc>
+    <lastmod>2020-08-16T21:41:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/poster/robo4-2016-poster/</loc>
+    <lastmod>2020-08-16T21:41:53-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/a-tsai/</loc>
     <lastmod>2020-08-13T10:39:54-07:00</lastmod>
   </url>
@@ -237,6 +277,10 @@
   </url>
   
   <url>
+    <loc>/honors-awards/</loc>
+  </url>
+  
+  <url>
     <loc>/author/morgan-schwartz/</loc>
     <lastmod>2020-08-13T10:39:54-07:00</lastmod>
   </url>
@@ -254,10 +298,6 @@
   <url>
     <loc>/talk/</loc>
     <lastmod>2020-08-13T10:39:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>
