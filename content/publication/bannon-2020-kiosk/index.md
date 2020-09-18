@@ -16,7 +16,7 @@ authors:
 - E Osterman
 - W Graf
 - D Van Valen
-date: "2019-09-15"
+date: "2020-09-16"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -42,7 +42,7 @@ summary:
 featured: false
 
 links:
-- name: Deepcell
+- name: Deepcell.org
   url: https://www.deepcell.org
 url_pdf: https://doi.org/10.1101/505032
 url_code: 'https://github.com/vanvalenlab/kiosk'

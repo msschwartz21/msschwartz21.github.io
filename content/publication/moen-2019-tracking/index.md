@@ -41,7 +41,7 @@ summary:
 featured: false
 
 links:
-- name: Deepcell
+- name: Deepcell.org
   url: https://www.deepcell.org
 url_pdf: https://doi.org/10.1101/803205
 url_code: 'https://github.com/vanvalenlab/deepcell-tracking'
