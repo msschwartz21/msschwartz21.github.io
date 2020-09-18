@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Dynamic allocation of computational resources for deep learning-enabled cellular image analysis with Kubernetes</title>
+      <link>/publication/bannon-2020-kiosk/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bannon-2020-kiosk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Characterizing the diverse cells that associate with the developing commissures of the zebrafish forebrain</title>
       <link>/publication/schnabl-forebrain/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/publication/schnabl-forebrain/</guid>
       <description></description>
     </item>
@@ -33,14 +41,6 @@
       <link>/publication/moen-2019-tracking/</link>
       <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/publication/moen-2019-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic allocation of computational resources for deep learning-enabled cellular image analysis with Kubernetes</title>
-      <link>/publication/bannon-2019-kiosk/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/bannon-2019-kiosk/</guid>
       <description></description>
     </item>
     

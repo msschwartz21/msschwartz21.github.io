@@ -5,7 +5,7 @@
     <link>/author/w-graf/</link>
       <atom:link href="/author/w-graf/index.xml" rel="self" type="application/rss+xml" />
     <description>W Graf</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>W Graf</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Accurate cell tracking and lineage construction in live-cell imaging experiments with deep learning</title>
-      <link>/publication/moen-2019-tracking/</link>
-      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/moen-2019-tracking/</guid>
+      <title>Dynamic allocation of computational resources for deep learning-enabled cellular image analysis with Kubernetes</title>
+      <link>/publication/bannon-2020-kiosk/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bannon-2020-kiosk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dynamic allocation of computational resources for deep learning-enabled cellular image analysis with Kubernetes</title>
-      <link>/publication/bannon-2019-kiosk/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/bannon-2019-kiosk/</guid>
+      <title>Accurate cell tracking and lineage construction in live-cell imaging experiments with deep learning</title>
+      <link>/publication/moen-2019-tracking/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/moen-2019-tracking/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Morgan Schwartz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Morgan Schwartz</title>
@@ -13,9 +13,33 @@
     </image>
     
     <item>
+      <title>Dynamic allocation of computational resources for deep learning-enabled cellular image analysis with Kubernetes</title>
+      <link>/publication/bannon-2020-kiosk/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bannon-2020-kiosk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning for biological image analysis</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical barcode CRISPR screens</title>
+      <link>/project/optical-barcodes/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/optical-barcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Characterizing the diverse cells that associate with the developing commissures of the zebrafish forebrain</title>
       <link>/publication/schnabl-forebrain/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/publication/schnabl-forebrain/</guid>
       <description></description>
     </item>
@@ -41,14 +65,6 @@
       <link>/publication/moen-2019-tracking/</link>
       <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/publication/moen-2019-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic allocation of computational resources for deep learning-enabled cellular image analysis with Kubernetes</title>
-      <link>/publication/bannon-2019-kiosk/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/bannon-2019-kiosk/</guid>
       <description></description>
     </item>
     
@@ -90,37 +106,6 @@
       <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/publication/schwartz-2016-dementia/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Honors and Awards</title>
-      <link>/honors-awards/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/honors-awards/</guid>
-      <description>&lt;h4 id=&#34;honorable-mention&#34;&gt;Honorable Mention&lt;/h4&gt;
-&lt;p&gt;National Science Foundation Graduate Research Fellowship | 2020&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2020, &lt;strong&gt;Honorable Mention&lt;/strong&gt;, National Science Foundation Graduate Research Fellowship&lt;/li&gt;
-&lt;li&gt;2019, &lt;strong&gt;Undergraduate Teaching Award&lt;/strong&gt;, Caltech Student Committee for Biology Advancement&lt;/li&gt;
-&lt;li&gt;2018} &amp;amp; \textbf{Highest Honors}, Smith College Biology Department \&lt;br&gt;
-\textsc{2018} &amp;amp; \textbf{First Place Undergraduate Poster}, New England Society for Developmental Biology \&lt;br&gt;
-\textsc{2018} &amp;amp; \textbf{Finalist},  Rhodes Fellowship\&lt;br&gt;
-\textsc{2018} &amp;amp; \textbf{Finalist},  Marshall Scholarship\&lt;br&gt;
-\textsc{2017} &amp;amp; \textbf{Goldwater Scholar}, Barry Goldwater Scholarship and Excellence in Education Foundation \&lt;br&gt;
-\textsc{2017} &amp;amp; \textbf{Associate Membership}, Sigma Xi, The Scientific Research Honor Society\&lt;br&gt;
-\textsc{2017} &amp;amp; \textbf{First Place Undergraduate Poster}, National Society for Developmental Biology \&lt;br&gt;
-\textsc{2016} &amp;amp; \textbf{First Place Undergraduate Poster}, New England Society for Developmental Biology \&lt;br&gt;
-\textsc{2014-2018} &amp;amp; \textbf{Dean&amp;rsquo;s List}, Smith College \&lt;br&gt;
-\textsc{2014-2018} &amp;amp; \textbf{STRIDE Scholar}, Smith College \&lt;br&gt;
-\textsc{2014} &amp;amp; \textbf{Faculty Prize}, Phoenix Country Day School \&lt;br&gt;
-\textsc{2014} &amp;amp; \textbf{National Merit Scholar}, National Merit Scholarship Program \&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;card experience course&#34;&gt;
-&lt;div class=&#34;card-body&#34;&gt;&lt;h4 class=&#34;card-title exp-title text-muted my-0&#34;&gt;Honorable Mention&lt;/h4&gt;&lt;div class=&#34;card-subtitle my-0 article-metadata&#34;&gt;National Science Foundation Graduate Research Fellowship&lt;span class=&#34;middot-divider&#34;&gt;&lt;/span&gt;2020&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;card-body&#34;&gt;&lt;h4 class=&#34;card-title exp-title text-muted my-0&#34;&gt;Honorable Mention&lt;/h4&gt;&lt;div class=&#34;card-subtitle my-0 article-metadata&#34;&gt;National Science Foundation Graduate Research Fellowship&lt;span class=&#34;middot-divider&#34;&gt;&lt;/span&gt;2020&lt;/div&gt;
-&lt;/div&gt;</description>
     </item>
     
   </channel>
