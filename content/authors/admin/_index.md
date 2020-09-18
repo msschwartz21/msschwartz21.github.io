@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include developing deep learning based mothods for biological image analysis.
+bio: My research interests include developing deep learning based methods for biological image analysis.
 
 interests:
 - Deep Learning
@@ -43,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/morgan-schwartz-5b2929a9/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=dLl7P3kAAAAJ&hl=en&oi=ao
