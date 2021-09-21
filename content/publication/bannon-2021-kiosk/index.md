@@ -1,5 +1,5 @@
 ---
-title: "Dynamic allocation of computational resources for deep learning-enabled cellular image analysis with Kubernetes"
+title: "DeepCell Kiosk: scaling deep learning-enabled cellular image analysis with Kubernetes"
 authors:
 - D Bannon
 - E Moen
@@ -16,8 +16,8 @@ authors:
 - E Osterman
 - W Graf
 - D Van Valen
-date: "2020-09-16"
-doi: ""
+date: "2021"
+doi: "https://doi.org/10.1038/s41592-020-01023-0"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-09-15"
@@ -26,13 +26,13 @@ publishDate: "2019-09-15"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "bioRxiv"
+publication: "Nature Methods"
 publication_short: ""
 
-abstract: Deep learning is transforming the ability of life scientists to extract information from images. These techniques have better accuracy than conventional approaches and enable previously impossible analyses. As the capability of deep learning methods expands, they are increasingly being applied to large imaging datasets. The computational demands of deep learning present a significant barrier to large-scale image analysis. To meet this challenge, we have developed DeepCell 2.0, a platform for deploying deep learning models on large imaging datasets (>105-megapixel images) in the cloud. This software enables the turnkey deployment of a Kubernetes cluster on all commonly used operating systems. By using a microservice architecture, our platform matches computational operations with their hardware requirements to reduce operating costs. Further, it scales computational resources to meet demand, drastically reducing the time necessary for analysis of large datasets. A thorough analysis of costs demonstrates that cloud computing is economically competitive for this application. By treating hardware infrastructure as software, this work foreshadows a new generation of software packages for biology in which computational resources are a dynamically allocated resource.
+abstract: Deep learning is transforming the analysis of biological images, but applying these models to large datasets remains challenging. Here we describe the DeepCell Kiosk, cloud-native software that dynamically scales deep learning workflows to accommodate large imaging datasets. To demonstrate the scalability and affordability of this software, we identified cell nuclei in 10 6 1-megapixel images in~ 5.5 h for~ US $250, with a cost below US $100 achievable depending on cluster configuration. The DeepCell Kiosk can be downloaded at https://github.com/vanvalenlab/kiosk-console; a persistent deployment is available at https://deepcell.org/.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -44,7 +44,7 @@ featured: false
 links:
 - name: Deepcell.org
   url: https://www.deepcell.org
-url_pdf: https://doi.org/10.1101/505032
+url_pdf: https://doi.org/10.1038/s41592-020-01023-0
 url_code: 'https://github.com/vanvalenlab/kiosk'
 url_dataset: ''
 url_poster: ''
