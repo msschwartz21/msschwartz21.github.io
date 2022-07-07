@@ -16,7 +16,7 @@ Led a team of two professors and eighteen teaching assistants to manage a requir
 ### Bi 8: Introduction to Molecular Biology - Winter 2019
 Worked with a team of six graduate teaching assistants to write homework and exam material and hold weekly recitation sections to supplement lecture material.
 ## Marine Biological Laboratory
-### DL@MBL: Deep Learning for Microscopy Image Analysis
+### DL@MBL: Deep Learning for Microscopy Image Analysis - [2021](https://github.com/dlmbl/DL-MBL-2021)
 Contributed two new tutorials as a teaching assistant to the inaugural deep learning course at MBL.
 ## Smith College
 
