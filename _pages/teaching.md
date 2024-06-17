@@ -3,6 +3,10 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+## Marine Biological Laboratory
+### [DL@MBL: Deep Learning for Microscopy Image Analysis](https://dlmbl.github.io/) - [2021](https://github.com/dlmbl/DL-MBL-2021), [2022](https://github.com/dlmbl/DL-MBL-2022), [2023](https://github.com/dlmbl/DL-MBL-2023), [2024](https://github.com/dlmbl/DL-MBL-2024)
+Contributed two new tutorials as a teaching assistant to the inaugural deep learning course at MBL. Led and organized the teaching assistants in 2022-2024.
+
 ## Caltech
 ### [Be/Bi 205: Deep Learning for Biological Data](https://vanvalenlab.github.io/bebi205) - Spring 2021
 Worked alongside Professor Van Valen to develop and teach a new course on the practical applications of deep learning for biological data.
@@ -15,9 +19,7 @@ Led a team of two professors and eighteen teaching assistants to manage a requir
 
 ### Bi 8: Introduction to Molecular Biology - Winter 2019
 Worked with a team of six graduate teaching assistants to write homework and exam material and hold weekly recitation sections to supplement lecture material.
-## Marine Biological Laboratory
-### DL@MBL: Deep Learning for Microscopy Image Analysis - [2021](https://github.com/dlmbl/DL-MBL-2021)
-Contributed two new tutorials as a teaching assistant to the inaugural deep learning course at MBL.
+
 ## Smith College
 
 ### Bio 303: Developmental Biology - Fall 2017
