@@ -3,7 +3,7 @@ title: "Characterizing the diverse cells that associate with the developing comm
 collection: publications
 permalink: /publication/2020-forebrain
 date: 2020-12-04
-link: 'https://doi.org/10.1002/dneu.22801'
+paperurl: 'https://doi.org/10.1002/dneu.22801'
 venue: Developmental Neurobiology
 authors:
     - Jake Schnabl

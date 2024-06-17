@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-mesmer
 date: 2021-11-18
 venue: Nature Biotechnology
-link: 'https://doi.org/10.1038/s41587-021-01094-0'
+paperurl: 'https://doi.org/10.1038/s41587-021-01094-0'
 authors:
     - Noah F. Greenwald
     - Geneva Miller

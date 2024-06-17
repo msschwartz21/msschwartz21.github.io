@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-nftpd
 date: 2016-01-12
 venue: "Journal of Alzheimer's Disease & Parkinsonism"
-link: 'https://doi.org/10.4172/2161-0460.1000204'
+paperurl: 'https://doi.org/10.4172/2161-0460.1000204'
 authors:
     - Morgan Schwartz
     - Thomas G Beach
