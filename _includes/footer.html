@@ -1,3 +1,13 @@
-{% include base_path %}
+<footer class="mt-auto py-3 text-center">
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+  {%- assign theme_name = "portfolYOU" -%}
+  {%- assign theme_repo = "https://github.com/YoussefRaafatNasry/portfolYOU" -%}
+
+  <small class="text-muted mb-2">
+    &copy {{ site.time | date: '%Y' }} {{ site.author.name }}.
+    Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="{{ theme_repo }}">{{ theme_name }}</a>
+  </small>
+
+  {% include social.html %}
+
+</footer>

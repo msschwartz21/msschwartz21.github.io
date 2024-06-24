@@ -1,31 +1,29 @@
----
-layout: compress
----
+<!DOCTYPE html>
 
-{% include base_path %}
+<!--
+  portfolYOU Jekyll theme by Youssef Raafat
+  Free for personal and commercial use under the MIT license
+  https://github.com/YoussefRaafatNasry/portfolYOU
+-->
 
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+<html lang="en" class="h-100">
 
-  <body>
+{% include head.html %}
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+<body class="h-100 d-flex flex-column">
 
+  <main class="flex-shrink-0 container mt-5">
+    {% include navbar.html %}
     {{ content }}
+  </main>
+  {% include footer.html %}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+  {% include analytics.html %}
+  {% include scripts.html %}
 
-    {% include scripts.html %}
+  {%- if site.buymeacoffee.enabled == true -%}
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="{{ site.buymeacoffee.username }}" data-description="{{ site.buymeacoffee.description }}" data-message="{{ site.buymeacoffee.message }}" data-color="{{ site.buymeacoffee.color }}" data-position="Right" data-x_margin="16" data-y_margin="16"></script>
+  {%- endif -%}
+</body>
 
-  </body>
 </html>

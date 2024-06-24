@@ -1,61 +1,32 @@
-{% include base_path %}
+<h4>{{ post.title }}</h4>
 
-{% if post.header.teaser %}
-{% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-{% assign teaser = site.teaser %}
-{% endif %}
+<p>
+    {% for auth in post.authors %}
+        {%if auth contains "Morgan Schwartz" %}
+            <b>{{auth}}</b>,
+        {%elsif auth == post.authors.last%}
+            {{auth}}.
+        {%else%}
+            {{auth}},
+        {%endif%}
+    {%endfor%}
 
-{% assign title = post.title %}
+    <br>
 
+    <i>{{post.venue}}</i>, {{post.date | date: '%Y'}}
 
-<div class="{{ include.type | default: " list" }}__item">
-    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <br>
 
-        <h2 class="archive__item-title" itemprop="headline">
-            {{ title }}
-        </h2>
-
-        {% if post.abstract %}
-        <details>
-            <summary>Abstract</summary>
-            <blockquote>
-                <p>
-                    {{ post.abstract }}
-                </p>
-            </blockquote>
-        </details>
-        {% endif %}
-
-        <!-- citation and icon code -->
-
-        <p>
-            {% for auth in post.authors %}
-                {%if auth contains "Morgan Schwartz" %}
-                    <b>{{auth}}</b>,
-                {%elsif auth == post.authors.last%}
-                    {{auth}}.
-                {%else%}
-                    {{auth}},
-                {%endif%}
-            {%endfor%}
-            <br>
-            <i>{{post.venue}}</i>, {{post.date | date: '%Y'}}
-
-            <br>
-            {% if post.link %}
-            <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-            {% endif %}
-            {% if post.paperurl %}
-            <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file zoom" aria-hidden="true"></i></a>
-            {% endif %}
-            {% if post.code %}
-            <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-            {% endif %}
-            {% if post.github %}
-            <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
-            {% endif %}
-        </p>
-
-    </article>
-</div>
+    {% if post.link %}
+    <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if post.paperurl %}
+    <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file zoom" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if post.code %}
+    <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if post.github %}
+    <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+    {% endif %}
+</p>

@@ -1,40 +1,28 @@
-/* ==========================================================================
-   CUSTOM CSS BY ME
-   ========================================================================== */
-
-/*
-   Visibility
-   ========================================================================== */
-
-.zoom{
-  /* default button */
-
-  &:hover {
-    transform: scale(1.25);
-  }
+.author-highlight {
+    color: $primary;
 }
 
-.container {
-  position: relative;
-  width: 100%;
-  max-width: 400px;
-}
+// h1 {
+//     margin-top: 0;
+//     font-size: $type-size-3;
+// }
 
-/* overlay effect (full height and width) - lays on top of the container */
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .3s ease;
-  background-color: $dark-gray;
-}
+// h2 {
+// font-size: $type-size-4;
+// }
 
-/* When you mouse over the container, fade in the overlay */
-.container:hover .overlay {
-  opacity: 0.25;
-}
+// h3 {
+// font-size: $type-size-5;
+// }
+
+// h4 {
+// font-size: $type-size-6;
+// }
+
+// h5 {
+// font-size: $type-size-6;
+// }
+
+// h6 {
+// font-size: $type-size-6;
+// }
