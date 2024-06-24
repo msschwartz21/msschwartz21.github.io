@@ -61,6 +61,8 @@ collections:
   publications:
     output: true
     permalink: /publications/:name
+  software:
+    output: true
 
 
 ### Disqus ###
@@ -102,6 +104,9 @@ defaults:
       type: "posts"
     values:
       comments: false                                   # Set to true to enable disqus comments
+  - scope:
+      path: ""
+      type: "software"
 
 
 ### Exclude from processing ###
