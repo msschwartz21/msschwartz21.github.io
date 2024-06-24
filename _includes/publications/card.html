@@ -1,0 +1,33 @@
+<div class="col-sm-4">
+<div class="wow animated fadeIn" data-wow-delay=".15s">
+  <div class="publication card text-themed">
+    {%- if paper_img -%}
+    <img id="{{ id }}-img" class="card-img-top" src="{{ paper_img }}" alt="{{ title }}" />
+    {%- endif -%}
+    <div class="card-body">
+      <h5 id="{{ id }}-name" class="card-title">
+        {{ title }}
+      </h5>
+      <p id="{{ id }}-cite" class="card-text">
+        <a href="{{doi}}" class="badge badge-pill text-primary border border-primary ml-1 badgelink"><em>{{journal}}</em>, {{date | date: '%Y'}}</a>
+      </p>
+      <p id="{{ id }}-authors" class="card-text small">
+        {% for auth in authors %}
+          {%if auth contains "Morgan Schwartz" %}
+            <b>{{auth}}</b>,
+          {%elsif auth == authors.last%}
+            {{auth}}.
+          {%else%}
+            {{auth}},
+          {%endif%}
+        {%endfor%}
+      </p>
+      <p id="{{ id }}-links" class="card-text">
+        {%if github %}
+          <a href="{{github}}" class="badge badge-pill text-primary border border-primary ml-1 badgelink"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+        {% endif %}
+      </p>
+    </div>
+  </div>
+</div>
+</div>

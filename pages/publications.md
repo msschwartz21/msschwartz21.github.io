@@ -1,17 +1,11 @@
 ---
-layout: page
+layout: default
 title: "Publications"
 permalink: /publications/
 ---
 
-# Publications
+{% include publications/index.html %}
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% for post in site.publications reversed %}
-  {% include publication.html %}
-{% endfor %}
+<br>
 
 <sup>*</sup> Equal authorship

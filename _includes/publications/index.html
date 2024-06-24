@@ -1,0 +1,19 @@
+
+<div class="row mx-md-n5">
+
+  {% for pub in site.publications reversed %}
+
+    {%- assign id    = pub.name | slugify -%}
+    {%- assign title  = pub.title -%}
+    {%- assign authors = pub.authors -%}
+    {%- assign journal = pub.venue -%}
+    {%- assign date = pub.date -%}
+    {%- assign doi = pub.paperurl -%}
+    {%- assign github = pub.github -%}
+    {%- assign paper_img = pub.image -%}
+
+    {% include publications/card.html %}
+
+  {% endfor %}
+
+</div>

@@ -9,8 +9,15 @@
 
   transition: transform 400ms;
 
-  &:hover:not(.post) {
+  &:hover:not(.publication) {
     transform: translateY(-8px);
+    box-shadow: -2px 8px 40px -12px rgba(0, 0, 0, 0.24);
+  }
+}
+
+.badgelink {
+  &:hover {
+    transform: translateY(-3px);
     box-shadow: -2px 8px 40px -12px rgba(0, 0, 0, 0.24);
   }
 }
