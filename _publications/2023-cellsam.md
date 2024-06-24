@@ -6,9 +6,9 @@ date: 2023-11-20
 venue: bioRxiv
 paperurl: https://doi.org/10.1101/2023.11.17.567630
 authors:
-    - Uriah Israel
-    - Markus Marks
-    - Rohit Dilip
+    - Uriah Israel<sup>*</sup>
+    - Markus Marks<sup>*</sup>
+    - Rohit Dilip<sup>*</sup>
     - Qilin Li
     - Morgan Schwartz
     - Elora Pradhan

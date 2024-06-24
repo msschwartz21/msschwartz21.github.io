@@ -9,7 +9,7 @@ github: 'https://github.com/msschwartz21/deltascope'
 authors:
     - Morgan Schwartz<sup>*</sup>
     - Jake Schnabl<sup>*</sup>
-    - Mackenzie PH Litz
-    - Benjamin S Baumer
+    - Mackenzie Litz
+    - Benjamin Baumer
     - Michael Barresi
 ---
