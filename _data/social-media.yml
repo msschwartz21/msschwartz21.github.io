@@ -99,8 +99,10 @@ keybase:
 googlescholar:
   url: https://scholar.google.com/citations?user=
   icon: fas fa-graduation-cap
+  color: 4285F4
 
 orcid:
   url: https://orcid.org/
-  icon: fas fa-brands fa-orcid
+  icon: fab fa-orcid
+  color: a6ce39
 
