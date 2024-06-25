@@ -2,7 +2,7 @@
 layout: default
 title: Software
 permalink: /software/
-weight: 1
+weight: 4
 ---
 <!-- <div class="col-lg-10 mx-auto mt-5 markdown-body">
     <h1>Software</h1>

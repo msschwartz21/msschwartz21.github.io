@@ -10,5 +10,6 @@ years:
       link: https://github.com/dlmbl/DL-MBL-2023
     - year: 2024
       link: dlmbl.github.io
+weight: 3
 description: A bootcamp to familiarize life science researchers with state-of-the-art deep learning techniques for microscopy image analysis.
 ---

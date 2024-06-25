@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Morgan Schwartz, PhD
 description         : >-
-                      I am a biologist passionate about developing open source software that
+                      I am a computational biologist passionate about developing open source software that
                       puts deep learning models in the hands of biologists at the bench.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : msschwartz21/msschwartz21.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -56,18 +56,20 @@ permalink: /blog/:title
 
 ### Collections ###
 collections:
-  projects:
-    output: true
-    permalink: /projects/:name
+  # projects:
+  #   output: false
+  #   permalink: /projects/:name
   publications:
-    output: true
+    output: false
     permalink: /publications/:name
   software:
-    output: true
+    output: false
     permalink: /software/:name
+    sort_by: weight
   teaching:
-    output: true
+    output: false
     permalink: /teaching/:name
+    sort_by: weight
 
 
 ### Disqus ###
@@ -94,11 +96,11 @@ buymeacoffee:
 
 ### Defaults for collections ###
 defaults:
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "page"
+  # - scope:
+  #     path: ""
+  #     type: "projects"
+  #   values:
+  #     layout: "page"
   - scope:
       path: ""
       type: "publications"
