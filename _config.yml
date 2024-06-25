@@ -65,6 +65,9 @@ collections:
   software:
     output: true
     permalink: /software/:name
+  teaching:
+    output: true
+    permalink: /teaching/:name
 
 
 ### Disqus ###
@@ -104,6 +107,11 @@ defaults:
   - scope:
       path: ""
       type: "software"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "teaching"
     values:
       layout: page
 

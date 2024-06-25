@@ -1,0 +1,24 @@
+<div class="wow animated fadeIn" data-wow-delay=".15s">
+  <div class="teaching card text-themed">
+    <div class="card-body">
+      <h5 id="{{ id }}-name" class="card-title">
+        {{ name }}
+      </h5>
+      <p class="card-text">
+        <span class="badge badge-pill text-primary border border-primary ml-1">{{location}}</span>
+      </p>
+      <p class="card-text">
+        {{description}}
+      </p>
+      <p id="{{ id }}-tags" class="card-text">
+        {% for course in years %}
+          {%if course.link %}
+            <a href="{{course.link}}" class="badge badge-pill text-primary border border-primary ml-1 badgelink">{{course.year}}</a>
+          {%else%}
+            <span class="badge badge-pill text-primary border border-primary ml-1">{{course.year}}</span>
+          {%endif%}
+        {%endfor%}
+      </p>
+    </div>
+  </div>
+</div>
