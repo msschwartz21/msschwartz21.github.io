@@ -1,11 +1,7 @@
-.project.card {
+.card {
   border-radius: $rounded-borders;
   text-decoration: none !important;
   margin: 10px auto;
-
-  .card-img-top {
-    border-radius: $rounded-borders $rounded-borders 0 0;
-  }
 
   transition: transform 400ms;
 
@@ -20,4 +16,10 @@
     transform: translateY(-3px);
     box-shadow: -2px 8px 40px -12px rgba(0, 0, 0, 0.24);
   }
+}
+
+.card-img-top {
+  border-radius: $rounded-borders $rounded-borders 0 0;
+  height: 150px;
+  background-size: cover;
 }

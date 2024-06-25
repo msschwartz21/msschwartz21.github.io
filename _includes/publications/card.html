@@ -1,8 +1,7 @@
-<div class="col-sm-4">
 <div class="wow animated fadeIn" data-wow-delay=".15s">
   <div class="publication card text-themed">
     {%- if paper_img -%}
-    <img id="{{ id }}-img" class="card-img-top" src="{{ paper_img }}" alt="{{ title }}" />
+    <div class="card-img-top" style="background-image: url({{paper_img}});"></div>
     {%- endif -%}
     <div class="card-body">
       <h5 id="{{ id }}-name" class="card-title">
@@ -29,5 +28,4 @@
       </p>
     </div>
   </div>
-</div>
 </div>

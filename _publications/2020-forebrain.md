@@ -15,4 +15,5 @@ authors:
     - Kristin Alligood
     - Stephen Devoto
     - Michael Barresi
+image: /images/OligNLShuCD.jpg
 ---

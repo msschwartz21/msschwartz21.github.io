@@ -12,4 +12,5 @@ authors:
     - Mackenzie Litz
     - Benjamin Baumer
     - Michael Barresi
+image: /images/commissure.png
 ---
