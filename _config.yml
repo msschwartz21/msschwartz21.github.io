@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Morgan Schwartz
+title               : Morgan Schwartz, PhD
 description         : >-
                       I am a biologist passionate about developing open source software that
                       puts deep learning models in the hands of biologists at the bench.
@@ -7,6 +7,7 @@ baseurl             : ""                     # Change to empty quotes if you are
 repository          : msschwartz21/msschwartz21.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+cv_filename: MorganSchwartz_CV.pdf
 
 
 ### Plugins ###
@@ -25,7 +26,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Morgan Schwartz
-  image             : /images/profile.jpeg
+  image             : profile.jpeg
   # behance           : your_username
 # dribbble          : your_username
   email             : msschwartz@caltech.edu
@@ -63,6 +64,7 @@ collections:
     permalink: /publications/:name
   software:
     output: true
+    permalink: /software/:name
 
 
 ### Disqus ###
@@ -101,12 +103,9 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "posts"
-    values:
-      comments: false                                   # Set to true to enable disqus comments
-  - scope:
-      path: ""
       type: "software"
+    values:
+      layout: page
 
 
 ### Exclude from processing ###
