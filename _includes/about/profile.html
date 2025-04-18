@@ -9,8 +9,8 @@
         <center>
             <!-- <h2>About me</h2> -->
             <img style="height: 300px; border-radius: 50%; overflow: hidden;" src="{{site.baseurl}}/images/{{site.author.image}}">
-            <a class="m-1 btn btn-outline-secondary btn-md btn-block" href="{{site.baseurl}}/assets/pdfs/{{site.cv_filename}}">
-                <i class="fas fa-file-pdf"></i> Curriculum Vitae</a>
+            <!-- <a class="m-1 btn btn-outline-secondary btn-md btn-block" href="{{site.baseurl}}/assets/pdfs/{{site.cv_filename}}">
+                <i class="fas fa-file-pdf"></i> Curriculum Vitae</a> -->
             <a class="m-1 btn btn-outline-secondary btn-md " href="{{ email.url }}{{ site.author.email }}">
                 <i class="{{ email.icon }}"></i></a>
             <a class="m-1 btn btn-outline-secondary btn-md " href="{{ orcid.url }}{{ site.author.orcid }}">
@@ -22,5 +22,7 @@
             <a class="m-1 btn btn-outline-secondary btn-md " href="{{ linkedin.url }}{{ site.author.linkedin }}">
             <i class="{{ linkedin.icon }}"></i></a>
         </center>
+
+        {% include about/timeline.html %}
     </div>
 </div>

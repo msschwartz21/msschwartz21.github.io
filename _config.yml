@@ -7,7 +7,7 @@ baseurl             : ""                     # Change to empty quotes if you are
 repository          : msschwartz21/msschwartz21.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
-cv_filename: MorganSchwartz_CV.pdf
+# cv_filename: MorganSchwartz_CV.pdf
 
 
 ### Plugins ###
@@ -29,7 +29,7 @@ author:
   image             : profile.jpeg
   # behance           : your_username
 # dribbble          : your_username
-  email             : msschwartz@caltech.edu
+  email             : schwartzm10@janelia.hhmi.org
   # facebook          : your_username
   github            : msschwartz21
 # gitlab            : your_username

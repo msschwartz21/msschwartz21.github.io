@@ -1,9 +1,14 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
+- title: Machine Learning Researcher<br>Funke Lab, Janelia Research Campus
+  from: 2024
+  to: Present
+  description: 
+
+- title: PhD Student<br>Van Valen Lab, Caltech
+  from: 2018
+  to: 2024
   description:
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
+- title: Bachelors Student<br>Biology, Smith College
+  from: 2014
+  to: 2018
   description:
